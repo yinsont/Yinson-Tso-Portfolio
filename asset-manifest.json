@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yinson-Tso-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/Yinson-Tso-Portfolio/static/js/main.f05c75ca.js",
+    "static/js/787.bd30bb59.chunk.js": "/Yinson-Tso-Portfolio/static/js/787.bd30bb59.chunk.js",
+    "static/media/logo.svg": "/Yinson-Tso-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yinson-Tso-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/Yinson-Tso-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.f05c75ca.js.map": "/Yinson-Tso-Portfolio/static/js/main.f05c75ca.js.map",
+    "787.bd30bb59.chunk.js.map": "/Yinson-Tso-Portfolio/static/js/787.bd30bb59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f05c75ca.js"
+  ]
+}
