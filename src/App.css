@@ -54,6 +54,12 @@
   flex-wrap: wrap;
   gap: 5em
 }
+
+.Navbar {
+  background-color:aquamarine;
+  flex-direction: column;
+  justify-content: end;
+}
 /* .Main {
   color: #73daca;
   top:50%;
