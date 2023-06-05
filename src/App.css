@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: #24283b;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  /* width: 100vw;
+  margin: 0; */
 }
 
 .App-logo {
@@ -7,6 +13,71 @@
   pointer-events: none;
 }
 
+.Home {
+  height: 100%;
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.center {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.PFP {
+  background-color:beige;
+  border-radius: 50%;
+  width: 20vw;
+  float: left;
+  margin: 0 15px 0 0
+} 
+
+.Hello {
+  color: aquamarine;
+  display: flex;
+  flex-direction: column;
+  margin: 0px
+}
+
+.MiniAbtMe {
+  color: #9B111E;
+  font-size: 20px;
+}
+
+.Icons {
+  color:bisque;
+  font-size: 50px;
+  flex-wrap: wrap;
+  gap: 5em
+}
+/* .Main {
+  color: #73daca;
+  top:50%;
+  left: 50%;
+  margin-right: 50%;
+  width: 70%
+}
+
+.Navbar {
+  float: right;
+  height: 100vh;
+  width: 20vw;
+  background-color: #c0c0c0;
+  justify-content: end;
+}
+
+
+.PFP {
+  background-color:beige;
+  border-radius: 50%;
+  width: 20vw;
+  float: left;
+  margin: 0 15px 0 0
+} */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

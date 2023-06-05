@@ -1,5 +1,8 @@
 import {React, useState} from "react"
 import Navbar from "./Navbar"
+import Hello from "./Hello"
+import MiniAbtMe from "./MiniAbtMe"
+import ProfilePicture from "./ProfilePicture"
 
 function Home(){
     const [navBar, setNavBar] = useState(false)
@@ -10,11 +13,16 @@ function Home(){
         )
     }
     return (
-        <div>
-            <h1>Hello</h1>
-            <h2>Welcome to My Portfolio</h2>
+        <div className="Home">
             <button onClick = {toggleNav}>{navBar ? '>>>' : '<<<'}</button>
             {navBar ? <Navbar/> : null}
+            <div className = "center">
+                <ProfilePicture/>
+                <div className = "Main">
+                    <Hello/>
+                    <MiniAbtMe/>
+                </div>
+            </div>
         </div>
     )
 }

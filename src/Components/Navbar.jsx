@@ -1,18 +1,16 @@
-import Projects from "./NavbarComponents/Projects"
 import AboutMe from "./NavbarComponents/AboutMe"
+import ProjectList from "./NavbarComponents/ProjectList"
+
 function Navbar() {
     return(
-        <nav>
+        <div className="Navbar">
             <div>
                 <AboutMe/>
             </div>
             <div>
-                <Projects/>
+                <ProjectList/>
             </div>
-            <div>
-
-            </div>
-        </nav>
+        </div>
     )
 }
 

@@ -1,1 +1,1 @@
-A portfolio to hold my most up-to-date/best projects so far
+A portfolio to hold my most notable projects so far
