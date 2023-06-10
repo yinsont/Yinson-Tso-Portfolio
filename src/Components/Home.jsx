@@ -14,7 +14,7 @@ function Home(){
     }
     return (
         <div className="Home">
-            <button onClick = {toggleNav}>{navBar ? '>>>' : '<<<'}</button>
+            <button className = "Dropdown-Button"onClick = {toggleNav}>{navBar ? '>>>' : '<<<'}</button>
             {navBar ? <Navbar/> : null}
             <div className = "center">
                 <ProfilePicture/>

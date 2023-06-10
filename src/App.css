@@ -56,34 +56,21 @@
 }
 
 .Navbar {
-  background-color:aquamarine;
+  position:relative;
+  display: flex;
   flex-direction: column;
-  justify-content: end;
-}
-/* .Main {
-  color: #73daca;
-  top:50%;
-  left: 50%;
-  margin-right: 50%;
-  width: 70%
-}
-
-.Navbar {
+  align-items: center;
+  background-color:aquamarine;
+  width: 10vw;
+  height: 10vw;
   float: right;
-  height: 100vh;
-  width: 20vw;
-  background-color: #c0c0c0;
-  justify-content: end;
+  justify-content: space-evenly;
+  /* display: flex; */
 }
 
-
-.PFP {
-  background-color:beige;
-  border-radius: 50%;
-  width: 20vw;
-  float: left;
-  margin: 0 15px 0 0
-} */
+.Dropdown-Button {
+  float: right;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
