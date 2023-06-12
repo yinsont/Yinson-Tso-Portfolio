@@ -14,15 +14,17 @@ function Home(){
     }
     return (
         <div className="Home">
+             {navBar ? <Navbar/> : null}
             <button className = "Dropdown-Button"onClick = {toggleNav}>{navBar ? '>>>' : '<<<'}</button>
-            {navBar ? <Navbar/> : null}
-            <div className = "center">
+           
+            <div className = "main-container">
                 <ProfilePicture/>
                 <div className = "Main">
                     <Hello/>
                     <MiniAbtMe/>
                 </div>
             </div>
+   
         </div>
     )
 }
