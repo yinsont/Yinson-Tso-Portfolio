@@ -1,5 +1,7 @@
 import AboutMe from "./NavbarComponents/AboutMe"
 import ProjectList from "./NavbarComponents/ProjectList"
+import {React} from 'react'
+import {BrowserRoutes} from "react-router-dom"
 
 function Navbar() {
     return(
