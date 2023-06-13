@@ -1,17 +1,14 @@
 import AboutMe from "./NavbarComponents/AboutMe"
 import ProjectList from "./NavbarComponents/ProjectList"
 import {React} from 'react'
-import {BrowserRoutes} from "react-router-dom"
+import {BrowserRoutes, Link} from "react-router-dom"
 
 function Navbar() {
     return(
         <div className="Navbar">
-            <div>
-                <AboutMe/>
-            </div>
-            <div>
-                <ProjectList/>
-            </div>
+            <Link to='/'>Home</Link>
+            <Link to='/aboutme'>About Me</Link>
+            <Link to='/projects'>Projects</Link>
         </div>
     )
 }

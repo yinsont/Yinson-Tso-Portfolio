@@ -1,5 +1,7 @@
 //become a route and link into website route that has more about me
 //simple amount me in opening window
+import Navbar from "../Navbar"
+
 function AboutMe(){
     return (
         <div>
