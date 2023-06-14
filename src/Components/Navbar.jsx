@@ -6,7 +6,7 @@ import {BrowserRoutes, Link} from "react-router-dom"
 function Navbar() {
     return(
         <div className="Navbar">
-            <Link to='/'>Home</Link>
+            <Link to='/Yinson-Tso-Portfolio'>Home</Link>
             <Link to='/aboutme'>About Me</Link>
             <Link to='/projects'>Projects</Link>
         </div>

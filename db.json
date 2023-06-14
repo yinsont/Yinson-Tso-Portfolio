@@ -1,0 +1,48 @@
+{
+  "projects" : [
+      {
+          "id": 1,
+          "title": "Grocery Shopping Cart",
+          "description": "A simple website that uses Javascript's DOM Manipulation to render out a website. Fetching data from a local JSON database that we created. Has mobile compatability.",
+          "resources": ["JavaScript"],
+          "gif": "http://g.recordit.co/5ddKhEAHX1.gif",
+          "GithubLink": "https://github.com/sarahjones016/phase-1-project",
+          "status": true
+      },
+      {
+          "id": 2,
+          "title": "Road Scholar",
+          "description": "A game dedicated to your knowledge of the geography and understanding of the roads in the US territory. The user must guess the distance and duration of a car ride between the 2 points within the allotted time of 10 seconds. This is all done using a the MapBox API.",
+          "resources": ["JavaScript", "React", "Json"],
+          "gif": "https://media.tenor.com/sQXkvagqfWYAAAAM/lol-funny-memes.gif",
+          "GithubLink": "https://github.com/yinsont/phase-2-project",
+          "status": true
+      },
+      {
+          "id": 3,
+          "title": "SIMS4 Flatiron School Mod",
+          "description": "With the strong desire to learn and understand game logic, these 2 students took on the daunting task of trying to decompile the python code used to create the SIMS4. With this knowledge they would gain, they will create their own mod for the game using said python. Though their efforts were of vain, they found other methods of creating the mods they so wished to create.",
+          "resources": ["Python"],
+          "gif": "https://www.westminstercrackers.com/filebin/images/products/ProductsPg_Square_SML.png",
+          "GithubLink": "https://github.com/jolieschae/Phase-3-Sims-4-Game-Mod",
+          "status": true
+      },
+      {
+          "id": 4,
+          "title": "Lit🔥 Crypts🧩",
+          "description": "To create a mock version of Wordle but with their own twists, these 4 students decided to create their own version. A version that would also, focus on challenging and training the human mind. Cyphers! A game that's meant to give the player a new and unique cypher each and every day!",
+          "resources": ["JavaScript", "React", "Json", "Python", "SqlAlchemy", "Flask"],
+          "gif": "https://www.westminstercrackers.com/filebin/images/products/ProductsPg_Square_SML.png",
+          "GithubLink": "https://github.com/yinsont/lit-crypts",
+          "status": false
+      },
+      {
+          "id": 5,
+          "title": "To Be Announced",
+          "description": "To Be Announced",
+          "resources": ["To Be Announced"],
+          "gif": "https://www.westminstercrackers.com/filebin/images/products/ProductsPg_Square_SML.png",
+          "status": false
+      }
+  ]
+}
