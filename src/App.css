@@ -50,13 +50,14 @@
 } 
 
 #PFP{
-  border-radius: 50%;
+  border-radius: 20%;
   height: 320px;
+  
   padding-left: 20px;
 }
 
 .Hello {
-  color: aquamarine;
+  color: rgb(202, 87, 52);
   display: flex;
   flex-direction: column;
   margin: 0px
