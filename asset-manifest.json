@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Yinson-Tso-Portfolio/static/css/main.a6f7a102.css",
-    "main.js": "/Yinson-Tso-Portfolio/static/js/main.861b85e3.js",
+    "main.js": "/Yinson-Tso-Portfolio/static/js/main.54067228.js",
     "static/js/787.bd30bb59.chunk.js": "/Yinson-Tso-Portfolio/static/js/787.bd30bb59.chunk.js",
     "static/media/PFP.jpg": "/Yinson-Tso-Portfolio/static/media/PFP.aa016a36a03398d338bc.jpg",
     "static/media/noice.PNG": "/Yinson-Tso-Portfolio/static/media/noice.89c57b99fab67986f2d7.PNG",
     "static/media/logo.svg": "/Yinson-Tso-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Yinson-Tso-Portfolio/index.html",
     "main.a6f7a102.css.map": "/Yinson-Tso-Portfolio/static/css/main.a6f7a102.css.map",
-    "main.861b85e3.js.map": "/Yinson-Tso-Portfolio/static/js/main.861b85e3.js.map",
+    "main.54067228.js.map": "/Yinson-Tso-Portfolio/static/js/main.54067228.js.map",
     "787.bd30bb59.chunk.js.map": "/Yinson-Tso-Portfolio/static/js/787.bd30bb59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6f7a102.css",
-    "static/js/main.861b85e3.js"
+    "static/js/main.54067228.js"
   ]
 }
